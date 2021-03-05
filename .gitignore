@@ -140,7 +140,7 @@ lab6/cocoapi
 lab6/pytorch-mask-rcnn
 lab6/vision
 
-lab7/CelebData/Celeba
+lab7/CelebaData
 lab7/data
 lab7/runs
 lab7/torch_data
