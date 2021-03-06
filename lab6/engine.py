@@ -51,7 +51,7 @@ def train_one_epoch(model, optimizer, data_loader, device, epoch, print_freq):
 
         metric_logger.update(loss=losses_reduced, **loss_dict_reduced)
         metric_logger.update(lr=optimizer.param_groups[0]["lr"])
-
+    torch.save(model.state_dict(), ('/root/labs/RTML/lab6/city_weights/mask-rcnn-%02d-epochs.pth' % epoch))
     return metric_logger
 
 

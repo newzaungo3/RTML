@@ -136,6 +136,7 @@ lab4&lab5/des
 lab4&lab5/weight
 
 lab6/cityMaskRcnn
+lab6/city_weights
 lab6/cocoapi
 lab6/pytorch-mask-rcnn
 lab6/vision
