@@ -140,6 +140,7 @@ lab6/city_weights
 lab6/cocoapi
 lab6/pytorch-mask-rcnn
 lab6/vision
+lab6/api
 
 lab7/CelebaData
 lab7/data
@@ -151,3 +152,4 @@ lab8/ait-ict
 lab8/celebA-317
 lab8/ait-ict.zip
 lab8/celebA-317.zip
+lab6/api/coco
